@@ -31,8 +31,6 @@ A build inclui ligação funcional à base de dados para efeitos de demonstraç�
 Por razões de segurança, as credenciais do Firebase (API Key) não estão incluídas no código-fonte disponível neste repositório.
 O ficheiro FirebaseManager encontra-se incompleto intencionalmente.
 
-A build incluída no repositório contém a configuração necessária apenas para fins de demonstração.
-
 ### Estrutura do codigo
 Dentro da pasta Ficheiros Fonte, o projeto está organizado da seguinte forma:
 
