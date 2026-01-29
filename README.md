@@ -17,7 +17,7 @@ Estes eventos abrangem diferentes aspetos da vida profissional e pessoal do joga
 - Firebase (base de dados);
 
 ### Build jogável
-Este repositório inclui uma build funcional para Windows, disponível no ficheiro **Build-PC.zip**.
+A build funcional para Windows encontra-se disponível na secção **Releases** deste repositório, no ficheiro **Build-PC.zip**.
 
 Após descomprimir:
 
